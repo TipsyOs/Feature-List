@@ -1,50 +1,29 @@
 # Feature-List
 
 - OMS
-- Night Theme
+- Night Beer Theme
 - Volume Rocker Music Control
 - Expanded Desktop
-- Fling/Smartbar
-- Smartbar Button Tint
+- Navigation Bar
 - Statusbar Clock and Date Customizations
 - Statusbar Battery Customizations
-- small QS Tiles
-- QS Tiles- TeslaCoil, IME, Volume Panel, Ring, Music, Reboot, Fling/Smartbar, Pie, Screen off, Expanded Desktop
-- QS Tiles Animation
 - QS Custom Rows/Columns
 - Network Traffic
-- AppOps
-- SuperSu and Substratum in Settings if installed
-- Power Menü Animations
-- Volume Key Answer
-- OmniSwitch
-- Immersive Recents
-- Dynamic Navbar
+- Slim Recents
 - Custom Carrier Label
-- Tesla Logo in Stausbar
-- Pie
-- Lockscreen Shortcuts
 - Lockscreen Weather
-- Lockscreen Battery Info when charging
-- Double tap to sleep on Lockscreen
+- Double tap to sleep on Statusbar
 - QS Header Icon settings
-- Header Date+Time position
-- Scramble PIN
-- Lockscreen PIN quick unlock
 - Notification Light
 - Silent Mode
-- Increasing Ring Volume
 - Unlink Notification Volume
 - Volume Steps
-- 'Do not disturb' add 15 min Steps and up to 14 Hours
-- Optional Screenshot Type
 - Screen Record
-- Clock and Date clickable in Statusbar
 - Reset Battery Stats
 - Optional Dashboard switches
-- Flip to Mute/Reject Call
-- Proximity speaker
-- Installed Apps: show link to Google Playstore
-- Ability to enable/disable Settings Drawer
+- System Animations
+- Battery Bar
+- Gestures Anywhere
+- Apps Circle Bar
 
 ...and more
