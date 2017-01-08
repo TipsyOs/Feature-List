@@ -25,5 +25,9 @@
 - Battery Bar
 - Gestures Anywhere
 - Apps Circle Bar
+- DT2S on statusbar
+- DT2S on lockscreen
+- Quick pin unlock (4 digits)
+- LCD density changer
 
 ...and more
