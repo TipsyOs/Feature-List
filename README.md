@@ -7,6 +7,8 @@
 - Navigation Bar
 - Statusbar Clock and Date Customizations
 - Statusbar Battery Customizations
+- QS Tiles- Reboot, Sync, Tether, NFC, Sceenshot, ScreenOff
+- QS Tiles Animation
 - QS Custom Rows/Columns
 - Network Traffic
 - Slim Recents
@@ -28,6 +30,10 @@
 - DT2S on statusbar
 - DT2S on lockscreen
 - Quick pin unlock (4 digits)
+- Scramble PIN
 - LCD density changer
+- Proximity Wake
+- Optional Screenshot Type
+- Headsup Toggle
 
 ...and more
