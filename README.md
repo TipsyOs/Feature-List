@@ -6,6 +6,7 @@
 - Expanded Desktop
 - Navigation Bar
 - Statusbar Clock and Date Customizations
+--      clickable, show seconds, fontstyles
 - Statusbar Battery Customizations
 - QS Tiles- Reboot, Sync, Tether, NFC, Sceenshot, ScreenOff
 - QS Tiles Animation
@@ -14,6 +15,7 @@
 - Slim Recents
 - Custom Carrier Label
 - Lockscreen Weather
+- Lockscreen Clock Fontstyles, Colors
 - Double tap to sleep on Statusbar
 - QS Header Icon settings
 - Notification Light
@@ -23,6 +25,7 @@
 - Screen Record
 - Reset Battery Stats
 - Optional Dashboard switches
+- Dashboard Portrait/Landscape columns
 - System Animations
 - Battery Bar
 - Gestures Anywhere
@@ -34,6 +37,10 @@
 - LCD density changer
 - Proximity Wake
 - Optional Screenshot Type
+- Enable/disbale screenshot Sound
 - Headsup Toggle
+- Volume keys to control media volume anytime
+- Power connect/disconnect notification
+- Night Mode
 
 ...and more
