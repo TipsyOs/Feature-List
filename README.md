@@ -13,7 +13,7 @@
 - QS Custom Rows/Columns
 - Network Traffic
 - Slim Recents
-- Custom Carrier Label
+- Custom Carrier Label (+ fonts styles  n' colours)
 - Lockscreen Weather
 - Lockscreen Clock Fontstyles, Colors
 - Double tap to sleep on Statusbar
@@ -42,5 +42,7 @@
 - Volume keys to control media volume anytime
 - Power connect/disconnect notification
 - Night Mode
+- Statusbar Temperature
+- Option to hide Lockscreen Weather,Date and Alarm
 
 ...and more
