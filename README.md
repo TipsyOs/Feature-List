@@ -43,6 +43,10 @@
 - Power connect/disconnect notification
 - Night Mode
 - Statusbar Temperature
-- Option to hide Lockscreen Weather,Date and Alarm
+- Option to hide Lockscreen Clock ,Date and Alarm
+- AppOps
+- Magisk included
+- Notification ticker
+- Increasing ring
 
 ...and more
