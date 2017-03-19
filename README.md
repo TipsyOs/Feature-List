@@ -8,7 +8,7 @@
 - Statusbar Clock and Date Customizations
 --      clickable, show seconds, fontstyles
 - Statusbar Battery Customizations
-- QS Tiles- Reboot, Sync, Tether, NFC, Sceenshot, ScreenOff
+- QS Tiles- Reboot, Sync, Tether, NFC, Sceenshot, ScreenOff, Caffeine, Weather
 - QS Tiles Animation
 - QS Custom Rows/Columns
 - Network Traffic
@@ -32,7 +32,7 @@
 - Apps Circle Bar
 - DT2S on statusbar
 - DT2S on lockscreen
-- Quick pin unlock (4 digits)
+- Quick pin unlock (custom length 4-12)
 - Scramble PIN
 - LCD density changer
 - Proximity Wake
@@ -48,5 +48,12 @@
 - Magisk included
 - Notification ticker
 - Increasing ring
+- Root with Magisk
+- Magisk Manager to Dashboard
+- Substratum to Dashboard
+- Tile scroller for Quickbar Settings
+- IME Switcher Notification
+- Expanded Statusbar Weather
+- Slim Recents Iconpack Support
 
 ...and more
