@@ -55,5 +55,6 @@
 - IME Switcher Notification
 - Expanded Statusbar Weather
 - Slim Recents Iconpack Support
+- OmniSwitch
 
 ...and more
