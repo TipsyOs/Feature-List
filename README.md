@@ -6,7 +6,7 @@
 - Expanded Desktop
 - Navigation Bar
 - Statusbar Clock and Date Customizations
---      clickable, show seconds, fontstyles
+-      clickable, show seconds, fontstyles
 - Statusbar Battery Customizations
 - QS Tiles- Reboot, Sync, Tether, NFC, Sceenshot, ScreenOff, Caffeine, Weather
 - QS Tiles Animation
@@ -56,5 +56,6 @@
 - Expanded Statusbar Weather
 - Slim Recents Iconpack Support
 - OmniSwitch
+- Charging screen when powered off
 
 ...and more
