@@ -1,7 +1,7 @@
 # Feature-List
 
 - OMS
-- Night Beer Theme
+- Night Beer Theme + light aosp theme + red gzr retro theme
 - Volume Rocker Music Control
 - Expanded Desktop
 - Navigation Bar
@@ -10,6 +10,7 @@
 - Statusbar Battery Customizations
 - QS Tiles- Reboot, Sync, Tether, NFC, Sceenshot, ScreenOff, Caffeine, Weather
 - QS Tiles Animation
+- QS Tiles easy toggle
 - QS Custom Rows/Columns
 - Network Traffic
 - Slim Recents
